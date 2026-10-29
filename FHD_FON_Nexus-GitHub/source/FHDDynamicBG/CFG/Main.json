@@ -1,0 +1,2264 @@
+{
+  "format": "blockpar",
+  "seed": -578507984,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "BV",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "OnLoad",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "01",
+                          "value": "if(ShipFindCustomShipInfoByType(Player(),'Player_FHDDynamicBG') == -1)",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "02",
+                          "value": "ShipAddCustomShipInfo(Player(),'Player_FHDDynamicBG');",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "OnStart",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "01",
+                          "value": "ShipAddCustomShipInfo(Player(),'Player_FHDDynamicBG');",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            }
+          ],
+          "sorted": true
+        },
+        "sort_meta": [
+          0,
+          1
+        ]
+      },
+      {
+        "kind": "block",
+        "name": "FHDDynamicBG",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "__readme_planet",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "требуемый мод"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet|planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc|Peleng|People|Fei|Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "путь к фону планеты"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "путь к фону в правительстве"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "__readme_ruin",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "требуемый мод"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "SB|PB|..."
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "фон для базы"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_vanilla"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_vanilla"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_0_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_vanilla_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_vanilla_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_vanilla"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_vanilla"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_1_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_vanilla_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_vanilla_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_vanilla"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_vanilla"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_2_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_vanilla_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_vanilla_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_vanilla"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_vanilla"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_3_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_vanilla_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_vanilla_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_4",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_vanilla"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_vanilla"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_4_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_vanilla_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_vanilla_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_fairan_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FairansVisionFairanBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_FairanBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_FairanBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_fairan_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FairansVisionFairanBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_FairanBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_FairanBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_fairan_2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FairansVisionFairanBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_FairanBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_FairanBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_fairan_3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FairansVisionFairanBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_FairanBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_FairanBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_fairan_4",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FairansVisionFairanBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_FairanBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_FairanBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_klaxon_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_KlaxonsCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_KlaxonsCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_klaxon_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_KlaxonsCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_KlaxonsCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_klaxon_2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_KlaxonsCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_KlaxonsCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_klaxon_3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_KlaxonsCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_KlaxonsCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_klaxon_4",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_KlaxonsCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_KlaxonsCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_PolarCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_PolarCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_0_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarPirateBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Maloc_polar_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Maloc_polar_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_PolarCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_PolarCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_1_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarPirateBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Peleng_polar_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Peleng_polar_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_2",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_PolarCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_PolarCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_2_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarPirateBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.People_polar_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.People_polar_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_3",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_PolarCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_PolarCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_3_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarPirateBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Fei_polar_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Fei_polar_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_4",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarCoalitionBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_PolarCoalitionBG"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_PolarCoalitionBG"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "city_polar_4_p",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarPirateBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal"
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.Gaal_polar_p"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.Gaal_polar_p"
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_BK",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "BK"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.BK"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_BK_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "BK"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.BK_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_BK_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "BK"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.DynamicBG_ruin.BK_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_CB",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "CB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.CB"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_DB",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "DB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.DB"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_MC",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "MC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.MC"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_MC_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "MC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.MC_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_MC_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "MC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.MC_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_PB",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "PB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.PB"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_PB_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "PB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.PB_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_PB_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "PB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.PB_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_RC",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "RC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.RC"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_RC_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "RC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.RC_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_RC_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "RC"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.RC_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_SB",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "SB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.SB"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_SB_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "SB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.SB_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_SB_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "SB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.SB_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_WB",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": ""
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "WB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.WB"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_WB_KlaxonStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "TweaksKlaxonsStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "WB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.WB_KlaxonsStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "ruin_WB_PolarStationsBG",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "PolarPolarStationsBG"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "ruin"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "ruin",
+                    "value": "WB"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "path",
+                    "value": "Bm.City.FHDDynamicBG_ruin.WB_PolarStationsBG"
+                  }
+                ],
+                "sorted": false
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            }
+          ],
+          "sorted": true
+        },
+        "sort_meta": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sorted": true
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "format": "blockpar",
+  "seed": -1215181314,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "FHDDynamicBG",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_fei_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_fei_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_fei_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Fei",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_fei_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_gaal_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_gaal_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_gaal_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Gaal",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_gaal_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_maloc_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_maloc_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_maloc_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Maloc",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_maloc_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_peleng_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_peleng_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_peleng_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "Peleng",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_peleng_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_people_0",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_people_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_0",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            },
+            {
+              "kind": "block",
+              "name": "FHDNightBG_planet_people_1",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "requirement",
+                    "value": "FHD_MODSFHD_FONFHDNightBG",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "type",
+                    "value": "planet_pirate",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "race",
+                    "value": "People",
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "kind": "block",
+                    "name": "paths",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "city",
+                          "value": "Bm.City.FHDDynamicBG.FHDNightBG_people_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "gov",
+                          "value": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_1",
+                          "sort_meta": [
+                            0,
+                            1
+                          ]
+                        }
+                      ],
+                      "sorted": true
+                    },
+                    "sort_meta": [
+                      0,
+                      1
+                    ]
+                  }
+                ],
+                "sorted": true
+              },
+              "sort_meta": [
+                0,
+                1
+              ]
+            }
+          ],
+          "sorted": true
+        },
+        "sort_meta": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sorted": true
+  }
+}

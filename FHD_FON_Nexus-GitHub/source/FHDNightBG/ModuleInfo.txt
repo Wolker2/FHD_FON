@@ -1,0 +1,20 @@
+Name=FHDNightBG
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=FHDDynamicBG
+Priority=0
+Languages=Rus,Eng
+Conflict=DenDynamicBG,DenNightBG
+Conflict=
+Conflict=
+SmallDescription=Добавляет 10 ночных фонов планет и 10 ночных фонов правительств
+FullDescription=Добавляет 10 ночных фонов планет и 10 ночных фонов правительств.
+FullDescription=<color=0,132,15>(можно подключать/отключать в течение партии)</color>
+FullDescription=<color=0,132,15>(легален)</color>
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng,Rus
+SmallDescription=Add 20 night planet backgrounds
+FullDescription=Add 20 night planet backgrounds.
+FullDescription=<color=0,132,15>(can be enabled/disabled during the game)</color>
+FullDescription=<color=0,132,15>(legal)</color>

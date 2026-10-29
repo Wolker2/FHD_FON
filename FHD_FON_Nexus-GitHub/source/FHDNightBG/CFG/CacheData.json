@@ -1,0 +1,140 @@
+{
+  "format": "cachedata",
+  "seed": -319409088,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Bm",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "City",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_fei_0",
+                          "value": "DATA\\NightBG\\fei_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_fei_1",
+                          "value": "DATA\\NightBG\\fei_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_gaal_0",
+                          "value": "DATA\\NightBG\\gaal_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_gaal_1",
+                          "value": "DATA\\NightBG\\gaal_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_maloc_0",
+                          "value": "DATA\\NightBG\\maloc_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_maloc_1",
+                          "value": "DATA\\NightBG\\maloc_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_peleng_0",
+                          "value": "DATA\\NightBG\\peleng_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_peleng_1",
+                          "value": "DATA\\NightBG\\peleng_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_people_0",
+                          "value": "DATA\\NightBG\\people_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_people_1",
+                          "value": "DATA\\NightBG\\people_1.gi"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG_gov",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_Maloc_0",
+                          "value": "DATA\\NightBG\\Maloc_gov_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_Maloc_1",
+                          "value": "DATA\\NightBG\\Maloc_gov_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_People_0",
+                          "value": "DATA\\NightBG\\People_gov_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_People_1",
+                          "value": "DATA\\NightBG\\People_gov_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_fei_0",
+                          "value": "DATA\\NightBG\\fei_gov_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_fei_1",
+                          "value": "DATA\\NightBG\\fei_gov_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_gaal_0",
+                          "value": "DATA\\NightBG\\gaal_gov_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_gaal_1",
+                          "value": "DATA\\NightBG\\gaal_gov_1.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_peleng_0",
+                          "value": "DATA\\NightBG\\peleng_gov_0.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDNightBG_peleng_1",
+                          "value": "DATA\\NightBG\\peleng_gov_1.gi"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

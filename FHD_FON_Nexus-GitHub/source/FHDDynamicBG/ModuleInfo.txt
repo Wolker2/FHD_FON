@@ -1,0 +1,38 @@
+Name=FHDDynamicBG
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=FHDBG
+Conflict=DenDynamicBG,DenBG,DenNightBG
+Priority=10
+Languages=Rus,Eng
+SmallDescription=Добавлено 300+ Full HD фонов для планет и станций
+SmallDescription=(Мод можно <color=0,150,15>подключать</color>/<color=150,0,15>отключать</color> в любое время игры)
+FullDescription=В игру добавлено более 300 различных фонов для населённых планет, правительств и станций. Каждый фон соответствует своей расе и уникальному стилю, что делает прохождение более разнообразным и избавляет игру от однообразия.
+FullDescription=Подключение этих модов добавит фонов в общий набор фонов:
+FullDescription=- FHDBG (куча фонов планет и станций)
+FullDescription=- KlaxonsCoalitionBG (фоны планет из КР2)
+FullDescription=- KlaxonsStationsBG (фоны станций из КР2)
+FullDescription=- FairanBG (фоны планет)
+FullDescription=- PolarCoalitionBG (фоны планет)
+FullDescription=- PolarStationsBG (фоны станций)
+FullDescription=- PolarPirateBG (фоны пиратских планет)
+FullDescription=Чтобы отключить мод во время партии, нужно:- ввести этот код в консоль девкита или чита SUDO:<color=0,0,255>ShipDeleteCustomShipInfo(Player(),'Player_FHDDynamicBG');</color>- сохраниться- отключить мод- загрузить сейв и играть дальше, все фоны сбросятся на обычные
+FullDescription=<color=0,132,15>(легален)</color>
+FullDescription=<color=254,0,0>(мод сам по себе контента не добавляет)</color>
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= --------------------------------------------------------------------------------------- <color=0,200,255>ENG</color> -------------------------------------------------------------------------------------
+Languages=Eng,Rus
+SmallDescription=Added 300+ Full HD backgrounds for planets and stations.
+SmallDescription=(The mod can be <color=0,150,15>enabled</color>/<color=150,0,15>disabled</color> at any time during the game)
+FullDescription=Around 300 unique backgrounds for inhabited planets, governments, and stations have been added to the game. Each background is tailored to its respective race and visual style, adding more variety to your playthrough and eliminating the game's repetitive atmosphere.
+FullDescription=Enabling of this mods will add backgrounds in total set of backgrounds:
+FullDescription=- FHDBG (a lot of backgrounds for planets and stations)
+FullDescription=- KlaxonsCoalitionBG (backgrounds of planets from SR2)
+FullDescription=- KlaxonsStationsBG (backgrounds of stations from SR2)
+FullDescription=- FairanBG (backgrounds of planets)
+FullDescription=- PolarCoalitionBG (backgrounds of planets)
+FullDescription=- PolarStationsBG (backgrounds of stations)
+FullDescription=- PolarPirateBG (backgrounds of pirate planets)
+FullDescription=For disabling this mod during the game you need:- enter this code in DevKit or SUDO-cheat console:<color=0,0,255>ShipDeleteCustomShipInfo(Player(),'Player_FHDDynamicBG');</color>- make a save- disable mod- load save and play. All backgrounds will change on default ones.
+FullDescription=<color=0,132,15>(legal)</color>
+FullDescription=<color=254,0,0>(mod for delelopers)</color>

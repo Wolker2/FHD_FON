@@ -1,0 +1,18 @@
+Name=FHDBG
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=FHDDynamicBG
+Conflict=DenDynamicBG,DenBG
+Priority=1
+Languages=Rus,Eng
+SmallDescription=Пак c Full HD фонами для мода на разнообразные фоны
+SmallDescription=(Мод можно <color=0,150,15>подключать</color>/<color=150,0,15>отключать</color> в любое время игры)
+FullDescription=В игру добавлено более 300 различных фонов для населённых планет, правительств и станций. Каждый фон соответствует своей расе и уникальному стилю, что делает прохождение более разнообразным и избавляет игру от однообразия.
+FullDescription=<color=0,132,15>(Легален)</color>
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng,Rus
+SmallDescription=Full HD Background Pack for the Diverse Backgrounds Mod
+SmallDescription=(The mod can be <color=0,150,15>enabled</color>/<color=150,0,15>disabled</color> at any time during the game)
+FullDescription=Around 300 unique backgrounds for inhabited planets, governments, and stations have been added to the game. Each background is tailored to its respective race and visual style, adding more variety to your playthrough and eliminating the game's repetitive atmosphere.
+FullDescription=<color=0,132,15>(Legal)</color>

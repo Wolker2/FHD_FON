@@ -1,0 +1,1826 @@
+FHDDynamicBG ^{
+    FHDBG_planet_000 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_000
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_000
+        }
+    }
+    FHDBG_planet_001 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_001
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_001
+        }
+    }
+    FHDBG_planet_002 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_002
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG.DenBG_002
+        }
+    }
+    FHDBG_planet_003 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_003
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_003
+        }
+    }
+    FHDBG_planet_004 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_004
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_004
+        }
+    }
+    FHDBG_planet_005 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_005
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_005
+        }
+    }
+    FHDBG_planet_006 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_006
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_006
+        }
+    }
+    FHDBG_planet_007 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_007
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_007
+        }
+    }
+    FHDBG_planet_008 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_008
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_008
+        }
+    }
+    FHDBG_planet_009 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_009
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_009
+        }
+    }
+    FHDBG_planet_010 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_010
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_010
+        }
+    }
+    FHDBG_planet_011 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_011
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_011
+        }
+    }
+    FHDBG_planet_012 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_012
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_012
+        }
+    }
+    FHDBG_planet_013 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_013
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_013
+        }
+    }
+    FHDBG_planet_014 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_014
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_014
+        }
+    }
+    FHDBG_planet_015 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_015
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_015
+        }
+    }
+    FHDBG_planet_016 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_016
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_016
+        }
+    }
+    FHDBG_planet_017 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_017
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_017
+        }
+    }
+    FHDBG_planet_018 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_018
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_018
+        }
+    }
+    FHDBG_planet_019 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_019
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_019
+        }
+    }
+    FHDBG_planet_020 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_020
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_020
+        }
+    }
+    FHDBG_planet_021 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_021
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_021
+        }
+    }
+    FHDBG_planet_022 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_022
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_022
+        }
+    }
+    FHDBG_planet_023 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_023
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_023
+        }
+    }
+    FHDBG_planet_024 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_024
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_024
+        }
+    }
+    FHDBG_planet_025 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_025
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_025
+        }
+    }
+    FHDBG_planet_026 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_026
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_026
+        }
+    }
+    FHDBG_planet_027 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_027
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_027
+        }
+    }
+    FHDBG_planet_028 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_028
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_028
+        }
+    }
+    FHDBG_planet_029 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_029
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_029
+        }
+    }
+    FHDBG_planet_030 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_031
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_030
+        }
+    }
+    FHDBG_planet_031 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_032
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_031
+        }
+    }
+    FHDBG_planet_032 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_033
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_032
+        }
+    }
+    FHDBG_planet_033 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_034
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_033
+        }
+    }
+    FHDBG_planet_034 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_035
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_034
+        }
+    }
+    FHDBG_planet_035 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_036
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_035
+        }
+    }
+    FHDBG_planet_036 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_037
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_036
+        }
+    }
+    FHDBG_planet_037 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_038
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_037
+        }
+    }
+    FHDBG_planet_038 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_039
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_038
+        }
+    }
+    FHDBG_planet_039 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_040
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_039
+        }
+    }
+    FHDBG_planet_040 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_041
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_040
+        }
+    }
+    FHDBG_planet_041 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_042
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_041
+        }
+    }
+    FHDBG_planet_042 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_043
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_042
+        }
+    }
+    FHDBG_planet_043 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_044
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_043
+        }
+    }
+    FHDBG_planet_044 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_045
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_044
+        }
+    }
+    FHDBG_planet_045 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_047
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_045
+        }
+    }
+    FHDBG_planet_046 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_048
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_046
+        }
+    }
+    FHDBG_planet_047 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_049
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_047
+        }
+    }
+    FHDBG_planet_048 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_050
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_048
+        }
+    }
+    FHDBG_planet_049 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_051
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_049
+        }
+    }
+    FHDBG_planet_050 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_052
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_050
+        }
+    }
+    FHDBG_planet_051 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_053
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_051
+        }
+    }
+    FHDBG_planet_052 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_054
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_052
+        }
+    }
+    FHDBG_planet_053 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_055
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_053
+        }
+    }
+    FHDBG_planet_054 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_056
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_054
+        }
+    }
+    FHDBG_planet_055 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_057
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_055
+        }
+    }
+    FHDBG_planet_056 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_058
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_056
+        }
+    }
+    FHDBG_planet_057 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_059
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_057
+        }
+    }
+    FHDBG_planet_058 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_060
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_058
+        }
+    }
+    FHDBG_planet_059 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_061
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_059
+        }
+    }
+    FHDBG_planet_060 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_063
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_060
+        }
+    }
+    FHDBG_planet_061 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_064
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_061
+        }
+    }
+    FHDBG_planet_062 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_065
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_062
+        }
+    }
+    FHDBG_planet_063 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_066
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_063
+        }
+    }
+    FHDBG_planet_064 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_067
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_064
+        }
+    }
+    FHDBG_planet_065 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_068
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_065
+        }
+    }
+    FHDBG_planet_066 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_069
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_066
+        }
+    }
+    FHDBG_planet_067 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_070
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_067
+        }
+    }
+    FHDBG_planet_068 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_071
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_068
+        }
+    }
+    FHDBG_planet_069 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_072
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_069
+        }
+    }
+    FHDBG_planet_070 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_073
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_070
+        }
+    }
+    FHDBG_planet_071 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_074
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_071
+        }
+    }
+    FHDBG_planet_072 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_075
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_072
+        }
+    }
+    FHDBG_planet_073 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_076
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_073
+        }
+    }
+    FHDBG_planet_074 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_077
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_074
+        }
+    }
+    FHDBG_planet_075 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_079
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_075
+        }
+    }
+    FHDBG_planet_076 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_080
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_076
+        }
+    }
+    FHDBG_planet_077 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_081
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_077
+        }
+    }
+    FHDBG_planet_078 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_082
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_078
+        }
+    }
+    FHDBG_planet_079 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_083
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_079
+        }
+    }
+    FHDBG_planet_080 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_084
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_080
+        }
+    }
+    FHDBG_planet_081 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_085
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_081
+        }
+    }
+    FHDBG_planet_082 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_086
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_082
+        }
+    }
+    FHDBG_planet_083 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_087
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_083
+        }
+    }
+    FHDBG_planet_084 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_088
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_084
+        }
+    }
+    FHDBG_planet_085 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_089
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_085
+        }
+    }
+    FHDBG_planet_086 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_090
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_086
+        }
+    }
+    FHDBG_planet_087 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_091
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_087
+        }
+    }
+    FHDBG_planet_088 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_092
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_088
+        }
+    }
+    FHDBG_planet_089 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_093
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_089
+        }
+    }
+    FHDBG_planet_090 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_095
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_090
+        }
+    }
+    FHDBG_planet_091 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_096
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_091
+        }
+    }
+    FHDBG_planet_092 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_097
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_092
+        }
+    }
+    FHDBG_planet_093 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_098
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_093
+        }
+    }
+    FHDBG_planet_094 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_099
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_094
+        }
+    }
+    FHDBG_planet_095 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_100
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_095
+        }
+    }
+    FHDBG_planet_096 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_101
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_096
+        }
+    }
+    FHDBG_planet_097 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_102
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_097
+        }
+    }
+    FHDBG_planet_098 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_103
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_098
+        }
+    }
+    FHDBG_planet_099 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_104
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_099
+        }
+    }
+    FHDBG_planet_100 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_105
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_100
+        }
+    }
+    FHDBG_planet_101 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_106
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_101
+        }
+    }
+    FHDBG_planet_102 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_107
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_102
+        }
+    }
+    FHDBG_planet_103 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_108
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_103
+        }
+    }
+    FHDBG_planet_104 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_109
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_104
+        }
+    }
+    FHDBG_planet_105 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_111
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_105
+        }
+    }
+    FHDBG_planet_106 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_112
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_106
+        }
+    }
+    FHDBG_planet_107 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_113
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_107
+        }
+    }
+    FHDBG_planet_108 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_114
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_108
+        }
+    }
+    FHDBG_planet_109 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_115
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_109
+        }
+    }
+    FHDBG_planet_110 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_116
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_110
+        }
+    }
+    FHDBG_planet_111 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_117
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_111
+        }
+    }
+    FHDBG_planet_112 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_118
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_112
+        }
+    }
+    FHDBG_planet_113 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_119
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_113
+        }
+    }
+    FHDBG_planet_114 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_120
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_114
+        }
+    }
+    FHDBG_planet_115 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_121
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_115
+        }
+    }
+    FHDBG_planet_116 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_122
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_116
+        }
+    }
+    FHDBG_planet_117 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_123
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_117
+        }
+    }
+    FHDBG_planet_118 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_124
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_118
+        }
+    }
+    FHDBG_planet_119 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_125
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_119
+        }
+    }
+    FHDBG_planet_120 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_127
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_120
+        }
+    }
+    FHDBG_planet_121 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_128
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_121
+        }
+    }
+    FHDBG_planet_122 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_129
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_122
+        }
+    }
+    FHDBG_planet_123 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_130
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_123
+        }
+    }
+    FHDBG_planet_124 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_131
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_124
+        }
+    }
+    FHDBG_planet_125 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_132
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_125
+        }
+    }
+    FHDBG_planet_126 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_133
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_126
+        }
+    }
+    FHDBG_planet_127 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_134
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_127
+        }
+    }
+    FHDBG_planet_128 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_135
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_128
+        }
+    }
+    FHDBG_planet_129 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_136
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_129
+        }
+    }
+    FHDBG_planet_130 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_137
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_130
+        }
+    }
+    FHDBG_planet_131 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_138
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_131
+        }
+    }
+    FHDBG_planet_132 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_139
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_132
+        }
+    }
+    FHDBG_planet_133 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_140
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_133
+        }
+    }
+    FHDBG_planet_134 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_141
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_134
+        }
+    }
+    FHDBG_planet_135 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_142
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_135
+        }
+    }
+    FHDBG_planet_136 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_159
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_001
+        }
+    }
+    FHDBG_planet_137 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_030
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_029
+        }
+    }
+    FHDBG_planet_138 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_046
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_044
+        }
+    }
+    FHDBG_planet_139 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_062
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_059
+        }
+    }
+    FHDBG_planet_140 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_078
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_074
+        }
+    }
+    FHDBG_planet_141 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_094
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_089
+        }
+    }
+    FHDBG_planet_142 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_110
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_104
+        }
+    }
+    FHDBG_planet_143 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_126
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_119
+        }
+    }
+    FHDBG_planet_144 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_158
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_161
+        }
+    }
+    FHDBG_planet_145 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_143
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_147
+        }
+    }
+    FHDBG_planet_146 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_144
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_148
+        }
+    }
+    FHDBG_planet_147 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_145
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_149
+        }
+    }
+    FHDBG_planet_148 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_146
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_150
+        }
+    }
+    FHDBG_planet_149 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_147
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_151
+        }
+    }
+    FHDBG_planet_150 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_148
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_152
+        }
+    }
+    FHDBG_planet_151 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_149
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_153
+        }
+    }
+    FHDBG_planet_152 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_150
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_154
+        }
+    }
+    FHDBG_planet_153 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_151
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_155
+        }
+    }
+    FHDBG_planet_154 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_152
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_156
+        }
+    }
+    FHDBG_planet_155 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_153
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_157
+        }
+    }
+    FHDBG_planet_156 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_154
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_158
+        }
+    }
+    FHDBG_planet_157 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_155
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_159
+        }
+    }
+    FHDBG_planet_158 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_156
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_160
+        }
+    }
+    FHDBG_planet_159 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDBG_157
+            gov=Bm.City.FHDDynamicBG_gov.FHDBG_161
+        }
+    }
+    FHDBG_ruin_000 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_000
+    }
+    FHDBG_ruin_001 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_001
+    }
+    FHDBG_ruin_002 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_002
+    }
+    FHDBG_ruin_003 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_003
+    }
+    FHDBG_ruin_004 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_004
+    }
+    FHDBG_ruin_005 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_005
+    }
+    FHDBG_ruin_006 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_006
+    }
+    FHDBG_ruin_007 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=BK
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_007
+    }
+    FHDBG_ruin_008 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_008
+    }
+    FHDBG_ruin_009 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_009
+    }
+    FHDBG_ruin_010 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_010
+    }
+    FHDBG_ruin_011 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_011
+    }
+    FHDBG_ruin_012 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_012
+    }
+    FHDBG_ruin_013 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_013
+    }
+    FHDBG_ruin_014 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_014
+    }
+    FHDBG_ruin_015 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=CB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_015
+    }
+    FHDBG_ruin_016 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_016
+    }
+    FHDBG_ruin_017 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_017
+    }
+    FHDBG_ruin_018 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_018
+    }
+    FHDBG_ruin_019 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_019
+    }
+    FHDBG_ruin_020 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_020
+    }
+    FHDBG_ruin_021 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_021
+    }
+    FHDBG_ruin_022 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_022
+    }
+    FHDBG_ruin_023 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=MC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_023
+    }
+    FHDBG_ruin_024 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_024
+    }
+    FHDBG_ruin_025 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_025
+    }
+    FHDBG_ruin_026 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_026
+    }
+    FHDBG_ruin_027 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_027
+    }
+    FHDBG_ruin_028 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_028
+    }
+    FHDBG_ruin_029 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_029
+    }
+    FHDBG_ruin_030 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_030
+    }
+    FHDBG_ruin_031 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=PB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_031
+    }
+    FHDBG_ruin_032 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_032
+    }
+    FHDBG_ruin_033 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_033
+    }
+    FHDBG_ruin_034 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_034
+    }
+    FHDBG_ruin_035 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_035
+    }
+    FHDBG_ruin_036 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_036
+    }
+    FHDBG_ruin_037 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_037
+    }
+    FHDBG_ruin_038 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_038
+    }
+    FHDBG_ruin_039 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=RC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_039
+    }
+    FHDBG_ruin_040 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_040
+    }
+    FHDBG_ruin_041 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_041
+    }
+    FHDBG_ruin_042 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_042
+    }
+    FHDBG_ruin_043 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_043
+    }
+    FHDBG_ruin_044 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_044
+    }
+    FHDBG_ruin_045 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_045
+    }
+    FHDBG_ruin_046 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_046
+    }
+    FHDBG_ruin_047 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=SB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_047
+    }
+    FHDBG_ruin_048 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_048
+    }
+    FHDBG_ruin_049 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_049
+    }
+    FHDBG_ruin_050 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_050
+    }
+    FHDBG_ruin_051 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_051
+    }
+    FHDBG_ruin_052 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_052
+    }
+    FHDBG_ruin_053 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_053
+    }
+    FHDBG_ruin_054 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_054
+    }
+    FHDBG_ruin_055 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=TC
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_055
+    }
+    FHDBG_ruin_056 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_056
+    }
+    FHDBG_ruin_057 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_057
+    }
+    FHDBG_ruin_058 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_058
+    }
+    FHDBG_ruin_059 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_059
+    }
+    FHDBG_ruin_060 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_060
+    }
+    FHDBG_ruin_061 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_061
+    }
+    FHDBG_ruin_062 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_062
+    }
+    FHDBG_ruin_063 ^{
+        requirement=FHD_MODSFHD_FONFHDBG
+        type=ruin
+        ruin=WB
+        path=Bm.City.FHDDynamicBG_ruin.FHDBG_063
+    }
+}

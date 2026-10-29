@@ -1,0 +1,27 @@
+[
+  {
+    "path": "FHDBG/INSTALL.TXT",
+    "source_encoding": "utf-8",
+    "runtime_encoding": "utf-16"
+  },
+  {
+    "path": "FHDBG/ModuleInfo.txt",
+    "source_encoding": "utf-8",
+    "runtime_encoding": "cp1251"
+  },
+  {
+    "path": "FHDDynamicBG/ModuleInfo.txt",
+    "source_encoding": "utf-8",
+    "runtime_encoding": "utf-16"
+  },
+  {
+    "path": "FHDNightBG/INSTALL.TXT",
+    "source_encoding": "utf-8",
+    "runtime_encoding": "utf-16"
+  },
+  {
+    "path": "FHDNightBG/ModuleInfo.txt",
+    "source_encoding": "utf-8",
+    "runtime_encoding": "utf-16"
+  }
+]

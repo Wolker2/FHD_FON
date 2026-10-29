@@ -1,0 +1,24 @@
+{
+  "input_archive": "FHD_FON.rar",
+  "input_sha256": "22b9573c430be4aed926204b13721206d6a7e0b92515933dc0ab4b9a415d3ef2",
+  "input_size_bytes": 14909,
+  "regular_files": 13,
+  "dat_files": 8,
+  "plain_text_files": 5,
+  "pkg_files": 0,
+  "gi_files": 0,
+  "scr_files": 0,
+  "dll_files": 0,
+  "pkg_named_empty_directories": [
+    "FHDBG/FHDBG.pkg",
+    "FHDNightBG/FHDNightBG.pkg"
+  ],
+  "empty_graphics_directories": [
+    "FHDDynamicBG/DATA/CityBG",
+    "FHDDynamicBG/DATA/GovBG",
+    "FHDDynamicBG/DATA/RuinsBG"
+  ],
+  "recovery": "All eight DAT files decoded into ordered editable JSON; UTF-8 text views provided. All five text files converted losslessly with encoding descriptors. No runtime behavior changed. No graphics reconstructed or substituted.",
+  "source_of_codec": "Previously verified local SRHD toolchain; dat_codec.py reused with updated module docstring.",
+  "scope": "Configuration/code source snapshot; original background graphics absent from upload. Not a complete visual mod distribution."
+}

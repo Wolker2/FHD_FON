@@ -1,0 +1,4108 @@
+{
+  "status": "PASS: original configuration/code snapshot rebuilt; artwork missing from input",
+  "configuration_build_passed": true,
+  "full_mod_complete": false,
+  "runtime_files": 13,
+  "dat_files": 8,
+  "byte_identical_files": 13,
+  "different_files": [],
+  "prebuilt_runtime_inputs_used": false,
+  "live_game_executed": false,
+  "sha256": {
+    "FHDBG/CFG/CacheData.dat": "36f38f324f3dd890e1b107a3e393449a5ff48b61ffa3aef1265f26461e8a9cca",
+    "FHDBG/CFG/Main.dat": "156978485864eb320c8e21eea942babe2550ce3ec00ddfb3e996b903bc5c86db",
+    "FHDDynamicBG/CFG/CacheData.dat": "8f9f6e9d74461169513d3489cfdd8e470a5e66efad161b8eb2ed8c3e2d75c5a9",
+    "FHDDynamicBG/CFG/Eng/Lang.dat": "5727c436b568ea206560826db254df07ae626da9b2f57d098d692e15661523ed",
+    "FHDDynamicBG/CFG/Main.dat": "0603387d2f157335b3ec9adeb2757d9d2680d050576ef166507c1e5e39bc6460",
+    "FHDDynamicBG/CFG/Rus/Lang.dat": "d4caf775905991073eeaebd24c1787d9edd377bcd46fc6259233304998516d92",
+    "FHDNightBG/CFG/CacheData.dat": "dab2d102d5e9507138d0b8df1b2c5aafc3573c6c3056232c589509b1816f9b4f",
+    "FHDNightBG/CFG/Main.dat": "48407cdff4e55855987db641800417608d739cc5e562d7e74634e0fa22d5a448",
+    "FHDBG/INSTALL.TXT": "60687eef2caeaedafe6bd4951859e5608ceae08c332938b1b276bb33e615dc10",
+    "FHDBG/ModuleInfo.txt": "7e055617a64d3801ea49a781858663094145538233e60e040298ca2d8b9e3881",
+    "FHDDynamicBG/ModuleInfo.txt": "67ac67168acf62984806e2c664feb6191d3908ced77a15c8e1e68ba0f1d4d155",
+    "FHDNightBG/INSTALL.TXT": "00c6169186fe15192fe5a3e0614c4ad3edc6cba8ae6b504e42f4d4e880066dad",
+    "FHDNightBG/ModuleInfo.txt": "605bf740e06d58322b73a06da298a6e87e5f4a7eb914368590cbd43226dda345"
+  },
+  "python": "3.12.14",
+  "zlib": "1.3.2",
+  "resource_audit": {
+    "runtime_assets_complete": false,
+    "background_alias_count": 485,
+    "unique_background_paths": 409,
+    "missing_own_unique_asset_paths": 357,
+    "external_asset_alias_count": 52,
+    "assets": [
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_000",
+        "path": "DATA\\BG\\planets\\fei\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_001",
+        "path": "DATA\\BG\\planets\\fei\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_002",
+        "path": "DATA\\BG\\planets\\fei\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_003",
+        "path": "DATA\\BG\\planets\\fei\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_004",
+        "path": "DATA\\BG\\planets\\fei\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_005",
+        "path": "DATA\\BG\\planets\\fei\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_006",
+        "path": "DATA\\BG\\planets\\fei\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_007",
+        "path": "DATA\\BG\\planets\\fei\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_008",
+        "path": "DATA\\BG\\planets\\fei\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_009",
+        "path": "DATA\\BG\\planets\\fei\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_010",
+        "path": "DATA\\BG\\planets\\fei\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_011",
+        "path": "DATA\\BG\\planets\\fei\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_012",
+        "path": "DATA\\BG\\planets\\fei\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_013",
+        "path": "DATA\\BG\\planets\\fei\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_014",
+        "path": "DATA\\BG\\planets\\fei\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_015",
+        "path": "DATA\\BG\\planets\\fei_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_016",
+        "path": "DATA\\BG\\planets\\fei_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_017",
+        "path": "DATA\\BG\\planets\\fei_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_018",
+        "path": "DATA\\BG\\planets\\fei_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_019",
+        "path": "DATA\\BG\\planets\\fei_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_020",
+        "path": "DATA\\BG\\planets\\fei_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_021",
+        "path": "DATA\\BG\\planets\\fei_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_022",
+        "path": "DATA\\BG\\planets\\fei_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_023",
+        "path": "DATA\\BG\\planets\\fei_pirate\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_024",
+        "path": "DATA\\BG\\planets\\fei_pirate\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_025",
+        "path": "DATA\\BG\\planets\\fei_pirate\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_026",
+        "path": "DATA\\BG\\planets\\fei_pirate\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_027",
+        "path": "DATA\\BG\\planets\\fei_pirate\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_028",
+        "path": "DATA\\BG\\planets\\fei_pirate\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_029",
+        "path": "DATA\\BG\\planets\\fei_pirate\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_030",
+        "path": "DATA\\BG\\planets\\fei_pirate\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_031",
+        "path": "DATA\\BG\\planets\\gaal\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_032",
+        "path": "DATA\\BG\\planets\\gaal\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_033",
+        "path": "DATA\\BG\\planets\\gaal\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_034",
+        "path": "DATA\\BG\\planets\\gaal\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_035",
+        "path": "DATA\\BG\\planets\\gaal\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_036",
+        "path": "DATA\\BG\\planets\\gaal\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_037",
+        "path": "DATA\\BG\\planets\\gaal\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_038",
+        "path": "DATA\\BG\\planets\\gaal\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_039",
+        "path": "DATA\\BG\\planets\\gaal\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_040",
+        "path": "DATA\\BG\\planets\\gaal\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_041",
+        "path": "DATA\\BG\\planets\\gaal\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_042",
+        "path": "DATA\\BG\\planets\\gaal\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_043",
+        "path": "DATA\\BG\\planets\\gaal\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_044",
+        "path": "DATA\\BG\\planets\\gaal\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_045",
+        "path": "DATA\\BG\\planets\\gaal\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_046",
+        "path": "DATA\\BG\\planets\\gaal\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_047",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_048",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_049",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_050",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_051",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_052",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_053",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_054",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_055",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_056",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_057",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_058",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_059",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_060",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_061",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_062",
+        "path": "DATA\\BG\\planets\\gaal_pirate\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_063",
+        "path": "DATA\\BG\\planets\\maloc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_064",
+        "path": "DATA\\BG\\planets\\maloc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_065",
+        "path": "DATA\\BG\\planets\\maloc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_066",
+        "path": "DATA\\BG\\planets\\maloc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_067",
+        "path": "DATA\\BG\\planets\\maloc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_068",
+        "path": "DATA\\BG\\planets\\maloc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_069",
+        "path": "DATA\\BG\\planets\\maloc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_070",
+        "path": "DATA\\BG\\planets\\maloc\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_071",
+        "path": "DATA\\BG\\planets\\maloc\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_072",
+        "path": "DATA\\BG\\planets\\maloc\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_073",
+        "path": "DATA\\BG\\planets\\maloc\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_074",
+        "path": "DATA\\BG\\planets\\maloc\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_075",
+        "path": "DATA\\BG\\planets\\maloc\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_076",
+        "path": "DATA\\BG\\planets\\maloc\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_077",
+        "path": "DATA\\BG\\planets\\maloc\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_078",
+        "path": "DATA\\BG\\planets\\maloc\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_079",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_080",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_081",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_082",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_083",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_084",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_085",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_086",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_087",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_088",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_089",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_090",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_091",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_092",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_093",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_094",
+        "path": "DATA\\BG\\planets\\maloc_pirate\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_095",
+        "path": "DATA\\BG\\planets\\peleng\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_096",
+        "path": "DATA\\BG\\planets\\peleng\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_097",
+        "path": "DATA\\BG\\planets\\peleng\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_098",
+        "path": "DATA\\BG\\planets\\peleng\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_099",
+        "path": "DATA\\BG\\planets\\peleng\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_100",
+        "path": "DATA\\BG\\planets\\peleng\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_101",
+        "path": "DATA\\BG\\planets\\peleng\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_102",
+        "path": "DATA\\BG\\planets\\peleng\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_103",
+        "path": "DATA\\BG\\planets\\peleng\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_104",
+        "path": "DATA\\BG\\planets\\peleng\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_105",
+        "path": "DATA\\BG\\planets\\peleng\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_106",
+        "path": "DATA\\BG\\planets\\peleng\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_107",
+        "path": "DATA\\BG\\planets\\peleng\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_108",
+        "path": "DATA\\BG\\planets\\peleng\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_109",
+        "path": "DATA\\BG\\planets\\peleng\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_110",
+        "path": "DATA\\BG\\planets\\peleng\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_111",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_112",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_113",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_114",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_115",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_116",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_117",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_118",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_119",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_120",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_121",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_122",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_123",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_124",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_125",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_126",
+        "path": "DATA\\BG\\planets\\peleng_pirate\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_127",
+        "path": "DATA\\BG\\planets\\people\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_128",
+        "path": "DATA\\BG\\planets\\people\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_129",
+        "path": "DATA\\BG\\planets\\people\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_130",
+        "path": "DATA\\BG\\planets\\people\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_131",
+        "path": "DATA\\BG\\planets\\people\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_132",
+        "path": "DATA\\BG\\planets\\people\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_133",
+        "path": "DATA\\BG\\planets\\people\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_134",
+        "path": "DATA\\BG\\planets\\people\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_135",
+        "path": "DATA\\BG\\planets\\people\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_136",
+        "path": "DATA\\BG\\planets\\people\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_137",
+        "path": "DATA\\BG\\planets\\people\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_138",
+        "path": "DATA\\BG\\planets\\people\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_139",
+        "path": "DATA\\BG\\planets\\people\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_140",
+        "path": "DATA\\BG\\planets\\people\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_141",
+        "path": "DATA\\BG\\planets\\people\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_142",
+        "path": "DATA\\BG\\planets\\people\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_143",
+        "path": "DATA\\BG\\planets\\people_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_144",
+        "path": "DATA\\BG\\planets\\people_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_145",
+        "path": "DATA\\BG\\planets\\people_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_146",
+        "path": "DATA\\BG\\planets\\people_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_147",
+        "path": "DATA\\BG\\planets\\people_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_148",
+        "path": "DATA\\BG\\planets\\people_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_149",
+        "path": "DATA\\BG\\planets\\people_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_150",
+        "path": "DATA\\BG\\planets\\people_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_151",
+        "path": "DATA\\BG\\planets\\people_pirate\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_152",
+        "path": "DATA\\BG\\planets\\people_pirate\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_153",
+        "path": "DATA\\BG\\planets\\people_pirate\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_154",
+        "path": "DATA\\BG\\planets\\people_pirate\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_155",
+        "path": "DATA\\BG\\planets\\people_pirate\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_156",
+        "path": "DATA\\BG\\planets\\people_pirate\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_157",
+        "path": "DATA\\BG\\planets\\people_pirate\\014.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_158",
+        "path": "DATA\\BG\\planets\\people_pirate\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDBG_159",
+        "path": "DATA\\BG\\planets\\fei\\015.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_000",
+        "path": "DATA\\BG\\gov\\fei\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_001",
+        "path": "DATA\\BG\\gov\\fei\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_002",
+        "path": "DATA\\BG\\gov\\fei\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_003",
+        "path": "DATA\\BG\\gov\\fei\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_004",
+        "path": "DATA\\BG\\gov\\fei\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_005",
+        "path": "DATA\\BG\\gov\\fei\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_006",
+        "path": "DATA\\BG\\gov\\fei\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_007",
+        "path": "DATA\\BG\\gov\\fei\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_008",
+        "path": "DATA\\BG\\gov\\fei\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_009",
+        "path": "DATA\\BG\\gov\\fei\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_010",
+        "path": "DATA\\BG\\gov\\fei\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_011",
+        "path": "DATA\\BG\\gov\\fei\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_012",
+        "path": "DATA\\BG\\gov\\fei\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_013",
+        "path": "DATA\\BG\\gov\\fei\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_014",
+        "path": "DATA\\BG\\gov\\fei\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_015",
+        "path": "DATA\\BG\\gov\\fei_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_016",
+        "path": "DATA\\BG\\gov\\fei_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_017",
+        "path": "DATA\\BG\\gov\\fei_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_018",
+        "path": "DATA\\BG\\gov\\fei_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_019",
+        "path": "DATA\\BG\\gov\\fei_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_020",
+        "path": "DATA\\BG\\gov\\fei_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_021",
+        "path": "DATA\\BG\\gov\\fei_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_022",
+        "path": "DATA\\BG\\gov\\fei_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_023",
+        "path": "DATA\\BG\\gov\\fei_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_024",
+        "path": "DATA\\BG\\gov\\fei_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_025",
+        "path": "DATA\\BG\\gov\\fei_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_026",
+        "path": "DATA\\BG\\gov\\fei_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_027",
+        "path": "DATA\\BG\\gov\\fei_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_028",
+        "path": "DATA\\BG\\gov\\fei_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_029",
+        "path": "DATA\\BG\\gov\\fei_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_030",
+        "path": "DATA\\BG\\gov\\gaal\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_031",
+        "path": "DATA\\BG\\gov\\gaal\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_032",
+        "path": "DATA\\BG\\gov\\gaal\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_033",
+        "path": "DATA\\BG\\gov\\gaal\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_034",
+        "path": "DATA\\BG\\gov\\gaal\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_035",
+        "path": "DATA\\BG\\gov\\gaal\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_036",
+        "path": "DATA\\BG\\gov\\gaal\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_037",
+        "path": "DATA\\BG\\gov\\gaal\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_038",
+        "path": "DATA\\BG\\gov\\gaal\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_039",
+        "path": "DATA\\BG\\gov\\gaal\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_040",
+        "path": "DATA\\BG\\gov\\gaal\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_041",
+        "path": "DATA\\BG\\gov\\gaal\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_042",
+        "path": "DATA\\BG\\gov\\gaal\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_043",
+        "path": "DATA\\BG\\gov\\gaal\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_044",
+        "path": "DATA\\BG\\gov\\gaal\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_045",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_046",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_047",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_048",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_049",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_050",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_051",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_052",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_053",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_054",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_055",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_056",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_057",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_058",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_059",
+        "path": "DATA\\BG\\gov\\gaal_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_060",
+        "path": "DATA\\BG\\gov\\maloc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_061",
+        "path": "DATA\\BG\\gov\\maloc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_062",
+        "path": "DATA\\BG\\gov\\maloc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_063",
+        "path": "DATA\\BG\\gov\\maloc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_064",
+        "path": "DATA\\BG\\gov\\maloc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_065",
+        "path": "DATA\\BG\\gov\\maloc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_066",
+        "path": "DATA\\BG\\gov\\maloc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_067",
+        "path": "DATA\\BG\\gov\\maloc\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_068",
+        "path": "DATA\\BG\\gov\\maloc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_069",
+        "path": "DATA\\BG\\gov\\maloc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_070",
+        "path": "DATA\\BG\\gov\\maloc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_071",
+        "path": "DATA\\BG\\gov\\maloc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_072",
+        "path": "DATA\\BG\\gov\\maloc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_073",
+        "path": "DATA\\BG\\gov\\maloc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_074",
+        "path": "DATA\\BG\\gov\\maloc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_075",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_076",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_077",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_078",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_079",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_080",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_081",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_082",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_083",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_084",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_085",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_086",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_087",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_088",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_089",
+        "path": "DATA\\BG\\gov\\maloc_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_090",
+        "path": "DATA\\BG\\gov\\peleng\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_091",
+        "path": "DATA\\BG\\gov\\peleng\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_092",
+        "path": "DATA\\BG\\gov\\peleng\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_093",
+        "path": "DATA\\BG\\gov\\peleng\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_094",
+        "path": "DATA\\BG\\gov\\peleng\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_095",
+        "path": "DATA\\BG\\gov\\peleng\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_096",
+        "path": "DATA\\BG\\gov\\peleng\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_097",
+        "path": "DATA\\BG\\gov\\peleng\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_098",
+        "path": "DATA\\BG\\gov\\peleng\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_099",
+        "path": "DATA\\BG\\gov\\peleng\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_100",
+        "path": "DATA\\BG\\gov\\peleng\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_101",
+        "path": "DATA\\BG\\gov\\peleng\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_102",
+        "path": "DATA\\BG\\gov\\peleng\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_103",
+        "path": "DATA\\BG\\gov\\peleng\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_104",
+        "path": "DATA\\BG\\gov\\peleng\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_105",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_106",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_107",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_108",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_109",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_110",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_111",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_112",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_113",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_114",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_115",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_116",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_117",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_118",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_119",
+        "path": "DATA\\BG\\gov\\peleng_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_120",
+        "path": "DATA\\BG\\gov\\people\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_121",
+        "path": "DATA\\BG\\gov\\people\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_122",
+        "path": "DATA\\BG\\gov\\people\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_123",
+        "path": "DATA\\BG\\gov\\people\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_124",
+        "path": "DATA\\BG\\gov\\people\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_125",
+        "path": "DATA\\BG\\gov\\people\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_126",
+        "path": "DATA\\BG\\gov\\people\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_127",
+        "path": "DATA\\BG\\gov\\people\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_128",
+        "path": "DATA\\BG\\gov\\people\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_129",
+        "path": "DATA\\BG\\gov\\people\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_130",
+        "path": "DATA\\BG\\gov\\people\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_131",
+        "path": "DATA\\BG\\gov\\people\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_132",
+        "path": "DATA\\BG\\gov\\people\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_133",
+        "path": "DATA\\BG\\gov\\people\\013.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_134",
+        "path": "DATA\\BG\\gov\\people\\012.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_135",
+        "path": "DATA\\BG\\gov\\people\\011.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_136",
+        "path": "DATA\\BG\\gov\\people\\010.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_137",
+        "path": "DATA\\BG\\gov\\people\\009.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_138",
+        "path": "DATA\\BG\\gov\\people\\008.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_139",
+        "path": "DATA\\BG\\gov\\people\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_140",
+        "path": "DATA\\BG\\gov\\people\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_141",
+        "path": "DATA\\BG\\gov\\people\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_142",
+        "path": "DATA\\BG\\gov\\people\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_143",
+        "path": "DATA\\BG\\gov\\people\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_144",
+        "path": "DATA\\BG\\gov\\people\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_145",
+        "path": "DATA\\BG\\gov\\people\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_146",
+        "path": "DATA\\BG\\gov\\people\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_147",
+        "path": "DATA\\BG\\gov\\people_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_148",
+        "path": "DATA\\BG\\gov\\people_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_149",
+        "path": "DATA\\BG\\gov\\people_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_150",
+        "path": "DATA\\BG\\gov\\people_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_151",
+        "path": "DATA\\BG\\gov\\people_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_152",
+        "path": "DATA\\BG\\gov\\people_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_153",
+        "path": "DATA\\BG\\gov\\people_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_154",
+        "path": "DATA\\BG\\gov\\people_pirate\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_155",
+        "path": "DATA\\BG\\gov\\people_pirate\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_156",
+        "path": "DATA\\BG\\gov\\people_pirate\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_157",
+        "path": "DATA\\BG\\gov\\people_pirate\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_158",
+        "path": "DATA\\BG\\gov\\people_pirate\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_159",
+        "path": "DATA\\BG\\gov\\people_pirate\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_160",
+        "path": "DATA\\BG\\gov\\people_pirate\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG_161",
+        "path": "DATA\\BG\\gov\\people_pirate\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_000",
+        "path": "DATA\\BG\\stations\\bk\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_001",
+        "path": "DATA\\BG\\stations\\bk\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_002",
+        "path": "DATA\\BG\\stations\\bk\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_003",
+        "path": "DATA\\BG\\stations\\bk\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_004",
+        "path": "DATA\\BG\\stations\\bk\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_005",
+        "path": "DATA\\BG\\stations\\bk\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_006",
+        "path": "DATA\\BG\\stations\\bk\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_007",
+        "path": "DATA\\BG\\stations\\bk\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_008",
+        "path": "DATA\\BG\\stations\\cb\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_009",
+        "path": "DATA\\BG\\stations\\cb\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_010",
+        "path": "DATA\\BG\\stations\\cb\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_011",
+        "path": "DATA\\BG\\stations\\cb\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_012",
+        "path": "DATA\\BG\\stations\\cb\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_013",
+        "path": "DATA\\BG\\stations\\cb\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_014",
+        "path": "DATA\\BG\\stations\\cb\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_015",
+        "path": "DATA\\BG\\stations\\cb\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_016",
+        "path": "DATA\\BG\\stations\\mc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_017",
+        "path": "DATA\\BG\\stations\\mc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_018",
+        "path": "DATA\\BG\\stations\\mc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_019",
+        "path": "DATA\\BG\\stations\\mc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_020",
+        "path": "DATA\\BG\\stations\\mc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_021",
+        "path": "DATA\\BG\\stations\\mc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_022",
+        "path": "DATA\\BG\\stations\\mc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_023",
+        "path": "DATA\\BG\\stations\\mc\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_024",
+        "path": "DATA\\BG\\stations\\pb\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_025",
+        "path": "DATA\\BG\\stations\\pb\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_026",
+        "path": "DATA\\BG\\stations\\pb\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_027",
+        "path": "DATA\\BG\\stations\\pb\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_028",
+        "path": "DATA\\BG\\stations\\pb\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_029",
+        "path": "DATA\\BG\\stations\\pb\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_030",
+        "path": "DATA\\BG\\stations\\pb\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_031",
+        "path": "DATA\\BG\\stations\\pb\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_032",
+        "path": "DATA\\BG\\stations\\rc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_033",
+        "path": "DATA\\BG\\stations\\rc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_034",
+        "path": "DATA\\BG\\stations\\rc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_035",
+        "path": "DATA\\BG\\stations\\rc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_036",
+        "path": "DATA\\BG\\stations\\rc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_037",
+        "path": "DATA\\BG\\stations\\rc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_038",
+        "path": "DATA\\BG\\stations\\rc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_039",
+        "path": "DATA\\BG\\stations\\rc\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_040",
+        "path": "DATA\\BG\\stations\\sb\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_041",
+        "path": "DATA\\BG\\stations\\sb\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_042",
+        "path": "DATA\\BG\\stations\\sb\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_043",
+        "path": "DATA\\BG\\stations\\sb\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_044",
+        "path": "DATA\\BG\\stations\\sb\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_045",
+        "path": "DATA\\BG\\stations\\sb\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_046",
+        "path": "DATA\\BG\\stations\\sb\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_047",
+        "path": "DATA\\BG\\stations\\sb\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_048",
+        "path": "DATA\\BG\\stations\\tc\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_049",
+        "path": "DATA\\BG\\stations\\tc\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_050",
+        "path": "DATA\\BG\\stations\\tc\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_051",
+        "path": "DATA\\BG\\stations\\tc\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_052",
+        "path": "DATA\\BG\\stations\\tc\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_053",
+        "path": "DATA\\BG\\stations\\tc\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_054",
+        "path": "DATA\\BG\\stations\\tc\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_055",
+        "path": "DATA\\BG\\stations\\tc\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_056",
+        "path": "DATA\\BG\\stations\\wb\\000.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_057",
+        "path": "DATA\\BG\\stations\\wb\\001.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_058",
+        "path": "DATA\\BG\\stations\\wb\\002.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_059",
+        "path": "DATA\\BG\\stations\\wb\\003.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_060",
+        "path": "DATA\\BG\\stations\\wb\\004.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_061",
+        "path": "DATA\\BG\\stations\\wb\\005.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_062",
+        "path": "DATA\\BG\\stations\\wb\\006.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.FHDBG_063",
+        "path": "DATA\\BG\\stations\\wb\\007.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\2Maloc.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\CityBG\\2Maloc.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\CityBG\\2Maloc.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\CityBG\\2Maloc.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\2Peleng.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\CityBG\\2Peleng.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\CityBG\\2Peleng.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\CityBG\\2Peleng.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\2People.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\CityBG\\2People.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\CityBG\\2People.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\CityBG\\2People.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\2Fei.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\CityBG\\2Fei.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\CityBG\\2Fei.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\CityBG\\2Fei.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\2Gaal.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\CityBG\\2Gaal.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\CityBG\\2Gaal.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\CityBG\\2Gaal.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\MalocPirate.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\PelengPirate.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\PeoplePirate.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\FeiPirate.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\CityBG\\GaalPirate.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\DATA\\CityBG\\MalocPirate.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\DATA\\CityBG\\PelengPirate.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.People_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\DATA\\CityBG\\PeoplePirate.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\DATA\\CityBG\\FeiPirate.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\DATA\\CityBG\\GaalPirate.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\2MalocBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\GovBG\\2MalocBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\GovBG\\2MalocBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\GovBG\\2MalocBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\2PelengBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\GovBG\\2PelengBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\GovBG\\2PelengBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\GovBG\\2PelengBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\2PeopleBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\GovBG\\2PeopleBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\GovBG\\2PeopleBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\GovBG\\2PeopleBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\2FeiBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\GovBG\\2FeiBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\GovBG\\2FeiBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\GovBG\\2FeiBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_vanilla",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\2GaalBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_KlaxonsCoalitionBG",
+        "path": "Mods\\Tweaks\\KlaxonsCoalitionBG\\DATA\\GovBG\\2GaalBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_PolarCoalitionBG",
+        "path": "Mods\\Polar\\PolarCoalitionBG\\DATA\\GovBG\\2GaalBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_FairanBG",
+        "path": "Mods\\FairansVision\\FairanBG\\DATA\\GovBG\\2GaalBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\MalocPirateBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\PelengPirateBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\PeoplePirateBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\FeiPirateBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_vanilla_p",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\GovBG\\GaalPirateBG.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\data\\GovBG\\MalocPirateBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\data\\GovBG\\PelengPirateBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\data\\GovBG\\PeoplePirateBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\data\\GovBG\\FeiPirateBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_polar_p",
+        "path": "Mods\\Polar\\PolarPirateBG\\data\\GovBG\\GaalPirateBG.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.BK",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2BKbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.CB",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2CBbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.MC",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2MCbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.PB",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2PBbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.RC",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2RCbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.SB",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2SBbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.WB",
+        "path": "Mods\\FHD_MODS\\FHD_FON\\FHDDynamicBG\\DATA\\RuinsBG\\2WBbg.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.BK_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2BKbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.MC_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2MCbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.PB_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2PBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.RC_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2RCbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.SB_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2SBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.WB_KlaxonsStationsBG",
+        "path": "Mods\\Tweaks\\KlaxonsStationsBG\\DATA\\FormRuinsBG\\2WBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.BK_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2BKbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.MC_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2MCbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.PB_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2PBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.RC_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2RCbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.SB_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2SBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.WB_PolarStationsBG",
+        "path": "Mods\\Polar\\PolarStationsBG\\DATA\\FormRuinsBG\\2WBbg.gi",
+        "expected_provider": "optional_external_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_fei_0",
+        "path": "DATA\\NightBG\\fei_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_fei_1",
+        "path": "DATA\\NightBG\\fei_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_gaal_0",
+        "path": "DATA\\NightBG\\gaal_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_gaal_1",
+        "path": "DATA\\NightBG\\gaal_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_maloc_0",
+        "path": "DATA\\NightBG\\maloc_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_maloc_1",
+        "path": "DATA\\NightBG\\maloc_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_peleng_0",
+        "path": "DATA\\NightBG\\peleng_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_peleng_1",
+        "path": "DATA\\NightBG\\peleng_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_people_0",
+        "path": "DATA\\NightBG\\people_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG.FHDNightBG_people_1",
+        "path": "DATA\\NightBG\\people_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_Maloc_0",
+        "path": "DATA\\NightBG\\Maloc_gov_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_Maloc_1",
+        "path": "DATA\\NightBG\\Maloc_gov_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_People_0",
+        "path": "DATA\\NightBG\\People_gov_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_People_1",
+        "path": "DATA\\NightBG\\People_gov_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_fei_0",
+        "path": "DATA\\NightBG\\fei_gov_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_fei_1",
+        "path": "DATA\\NightBG\\fei_gov_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_0",
+        "path": "DATA\\NightBG\\gaal_gov_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_1",
+        "path": "DATA\\NightBG\\gaal_gov_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_peleng_0",
+        "path": "DATA\\NightBG\\peleng_gov_0.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      },
+      {
+        "module": "FHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG_peleng_1",
+        "path": "DATA\\NightBG\\peleng_gov_1.gi",
+        "expected_provider": "this_mod",
+        "present_in_upload": false
+      }
+    ],
+    "main_background_references": 484,
+    "missing_exact_alias_references": [
+      {
+        "module": "FHDBG",
+        "record": "FHDBG_planet_002",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG.DenBG_002",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_BK_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.DynamicBG_ruin.BK_PolarStationsBG",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_DB",
+        "field": "path",
+        "requirement": "",
+        "alias": "Bm.City.FHDDynamicBG_ruin.DB",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_fei_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_fei_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_maloc_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_maloc_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_peleng_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_peleng_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_people_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_people_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      }
+    ],
+    "local_missing_exact_alias_references": [
+      {
+        "module": "FHDBG",
+        "record": "FHDBG_planet_002",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDBG.DenBG_002",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_DB",
+        "field": "path",
+        "requirement": "",
+        "alias": "Bm.City.FHDDynamicBG_ruin.DB",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_fei_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_fei_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_maloc_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_maloc_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_peleng_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_peleng_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_people_0",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_0",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDNightBG",
+        "record": "FHDNightBG_planet_people_1",
+        "field": "paths.gov",
+        "requirement": "FHD_MODSFHD_FONFHDNightBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.FHDNightBG.People_1",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      }
+    ],
+    "optional_external_alias_references": [
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_0",
+        "field": "paths.city",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_0",
+        "field": "paths.gov",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_1",
+        "field": "paths.city",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_1",
+        "field": "paths.gov",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_2",
+        "field": "paths.city",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG.People_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_2",
+        "field": "paths.gov",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_3",
+        "field": "paths.city",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_3",
+        "field": "paths.gov",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_4",
+        "field": "paths.city",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_fairan_4",
+        "field": "paths.gov",
+        "requirement": "FairansVisionFairanBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_FairanBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_0",
+        "field": "paths.city",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_0",
+        "field": "paths.gov",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_1",
+        "field": "paths.city",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_1",
+        "field": "paths.gov",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_2",
+        "field": "paths.city",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.People_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_2",
+        "field": "paths.gov",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_3",
+        "field": "paths.city",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_3",
+        "field": "paths.gov",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_4",
+        "field": "paths.city",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_klaxon_4",
+        "field": "paths.gov",
+        "requirement": "TweaksKlaxonsCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_KlaxonsCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_0",
+        "field": "paths.city",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_0",
+        "field": "paths.gov",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_0_p",
+        "field": "paths.city",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG.Maloc_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_0_p",
+        "field": "paths.gov",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Maloc_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_1",
+        "field": "paths.city",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_1",
+        "field": "paths.gov",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_1_p",
+        "field": "paths.city",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG.Peleng_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_1_p",
+        "field": "paths.gov",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Peleng_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_2",
+        "field": "paths.city",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.People_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_2",
+        "field": "paths.gov",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_2_p",
+        "field": "paths.city",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG.People_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_2_p",
+        "field": "paths.gov",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.People_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_3",
+        "field": "paths.city",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_3",
+        "field": "paths.gov",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_3_p",
+        "field": "paths.city",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG.Fei_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_3_p",
+        "field": "paths.gov",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Fei_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_4",
+        "field": "paths.city",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_4",
+        "field": "paths.gov",
+        "requirement": "PolarPolarCoalitionBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_PolarCoalitionBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_4_p",
+        "field": "paths.city",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG.Gaal_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "city_polar_4_p",
+        "field": "paths.gov",
+        "requirement": "PolarPolarPirateBG",
+        "alias": "Bm.City.FHDDynamicBG_gov.Gaal_polar_p",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_BK_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.BK_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_BK_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.DynamicBG_ruin.BK_PolarStationsBG",
+        "exact_in_supplied_cache": false,
+        "case_insensitive_in_supplied_cache": false
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_MC_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.MC_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_MC_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.MC_PolarStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_PB_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.PB_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_PB_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.PB_PolarStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_RC_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.RC_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_RC_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.RC_PolarStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_SB_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.SB_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_SB_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.SB_PolarStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_WB_KlaxonStationsBG",
+        "field": "path",
+        "requirement": "TweaksKlaxonsStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.WB_KlaxonsStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      },
+      {
+        "module": "FHDDynamicBG",
+        "record": "ruin_WB_PolarStationsBG",
+        "field": "path",
+        "requirement": "PolarPolarStationsBG",
+        "alias": "Bm.City.FHDDynamicBG_ruin.WB_PolarStationsBG",
+        "exact_in_supplied_cache": true,
+        "case_insensitive_in_supplied_cache": true
+      }
+    ],
+    "module_dependency_cycle": true,
+    "cycle": [
+      "FHDBG",
+      "FHDDynamicBG",
+      "FHDBG"
+    ],
+    "notes": [
+      "Missing exact references are original findings, not introduced by source recovery.",
+      "Case-insensitive comparison is diagnostic only; game resolution was not executed.",
+      "Optional third-party background packs are not included in this upload."
+    ]
+  },
+  "complete_build_guard_verified": true
+}

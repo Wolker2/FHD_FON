@@ -1,0 +1,1978 @@
+{
+  "format": "cachedata",
+  "seed": -319409088,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Bm",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "City",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_000",
+                          "value": "DATA\\BG\\planets\\fei\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_001",
+                          "value": "DATA\\BG\\planets\\fei\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_002",
+                          "value": "DATA\\BG\\planets\\fei\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_003",
+                          "value": "DATA\\BG\\planets\\fei\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_004",
+                          "value": "DATA\\BG\\planets\\fei\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_005",
+                          "value": "DATA\\BG\\planets\\fei\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_006",
+                          "value": "DATA\\BG\\planets\\fei\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_007",
+                          "value": "DATA\\BG\\planets\\fei\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_008",
+                          "value": "DATA\\BG\\planets\\fei\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_009",
+                          "value": "DATA\\BG\\planets\\fei\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_010",
+                          "value": "DATA\\BG\\planets\\fei\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_011",
+                          "value": "DATA\\BG\\planets\\fei\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_012",
+                          "value": "DATA\\BG\\planets\\fei\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_013",
+                          "value": "DATA\\BG\\planets\\fei\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_014",
+                          "value": "DATA\\BG\\planets\\fei\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_015",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_016",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_017",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_018",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_019",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_020",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_021",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_022",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_023",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_024",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_025",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_026",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_027",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_028",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_029",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_030",
+                          "value": "DATA\\BG\\planets\\fei_pirate\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_031",
+                          "value": "DATA\\BG\\planets\\gaal\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_032",
+                          "value": "DATA\\BG\\planets\\gaal\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_033",
+                          "value": "DATA\\BG\\planets\\gaal\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_034",
+                          "value": "DATA\\BG\\planets\\gaal\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_035",
+                          "value": "DATA\\BG\\planets\\gaal\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_036",
+                          "value": "DATA\\BG\\planets\\gaal\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_037",
+                          "value": "DATA\\BG\\planets\\gaal\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_038",
+                          "value": "DATA\\BG\\planets\\gaal\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_039",
+                          "value": "DATA\\BG\\planets\\gaal\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_040",
+                          "value": "DATA\\BG\\planets\\gaal\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_041",
+                          "value": "DATA\\BG\\planets\\gaal\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_042",
+                          "value": "DATA\\BG\\planets\\gaal\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_043",
+                          "value": "DATA\\BG\\planets\\gaal\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_044",
+                          "value": "DATA\\BG\\planets\\gaal\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_045",
+                          "value": "DATA\\BG\\planets\\gaal\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_046",
+                          "value": "DATA\\BG\\planets\\gaal\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_047",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_048",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_049",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_050",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_051",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_052",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_053",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_054",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_055",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_056",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_057",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_058",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_059",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_060",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_061",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_062",
+                          "value": "DATA\\BG\\planets\\gaal_pirate\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_063",
+                          "value": "DATA\\BG\\planets\\maloc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_064",
+                          "value": "DATA\\BG\\planets\\maloc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_065",
+                          "value": "DATA\\BG\\planets\\maloc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_066",
+                          "value": "DATA\\BG\\planets\\maloc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_067",
+                          "value": "DATA\\BG\\planets\\maloc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_068",
+                          "value": "DATA\\BG\\planets\\maloc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_069",
+                          "value": "DATA\\BG\\planets\\maloc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_070",
+                          "value": "DATA\\BG\\planets\\maloc\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_071",
+                          "value": "DATA\\BG\\planets\\maloc\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_072",
+                          "value": "DATA\\BG\\planets\\maloc\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_073",
+                          "value": "DATA\\BG\\planets\\maloc\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_074",
+                          "value": "DATA\\BG\\planets\\maloc\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_075",
+                          "value": "DATA\\BG\\planets\\maloc\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_076",
+                          "value": "DATA\\BG\\planets\\maloc\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_077",
+                          "value": "DATA\\BG\\planets\\maloc\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_078",
+                          "value": "DATA\\BG\\planets\\maloc\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_079",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_080",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_081",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_082",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_083",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_084",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_085",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_086",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_087",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_088",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_089",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_090",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_091",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_092",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_093",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_094",
+                          "value": "DATA\\BG\\planets\\maloc_pirate\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_095",
+                          "value": "DATA\\BG\\planets\\peleng\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_096",
+                          "value": "DATA\\BG\\planets\\peleng\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_097",
+                          "value": "DATA\\BG\\planets\\peleng\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_098",
+                          "value": "DATA\\BG\\planets\\peleng\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_099",
+                          "value": "DATA\\BG\\planets\\peleng\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_100",
+                          "value": "DATA\\BG\\planets\\peleng\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_101",
+                          "value": "DATA\\BG\\planets\\peleng\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_102",
+                          "value": "DATA\\BG\\planets\\peleng\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_103",
+                          "value": "DATA\\BG\\planets\\peleng\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_104",
+                          "value": "DATA\\BG\\planets\\peleng\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_105",
+                          "value": "DATA\\BG\\planets\\peleng\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_106",
+                          "value": "DATA\\BG\\planets\\peleng\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_107",
+                          "value": "DATA\\BG\\planets\\peleng\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_108",
+                          "value": "DATA\\BG\\planets\\peleng\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_109",
+                          "value": "DATA\\BG\\planets\\peleng\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_110",
+                          "value": "DATA\\BG\\planets\\peleng\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_111",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_112",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_113",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_114",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_115",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_116",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_117",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_118",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_119",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_120",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_121",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_122",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_123",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_124",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_125",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_126",
+                          "value": "DATA\\BG\\planets\\peleng_pirate\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_127",
+                          "value": "DATA\\BG\\planets\\people\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_128",
+                          "value": "DATA\\BG\\planets\\people\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_129",
+                          "value": "DATA\\BG\\planets\\people\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_130",
+                          "value": "DATA\\BG\\planets\\people\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_131",
+                          "value": "DATA\\BG\\planets\\people\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_132",
+                          "value": "DATA\\BG\\planets\\people\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_133",
+                          "value": "DATA\\BG\\planets\\people\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_134",
+                          "value": "DATA\\BG\\planets\\people\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_135",
+                          "value": "DATA\\BG\\planets\\people\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_136",
+                          "value": "DATA\\BG\\planets\\people\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_137",
+                          "value": "DATA\\BG\\planets\\people\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_138",
+                          "value": "DATA\\BG\\planets\\people\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_139",
+                          "value": "DATA\\BG\\planets\\people\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_140",
+                          "value": "DATA\\BG\\planets\\people\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_141",
+                          "value": "DATA\\BG\\planets\\people\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_142",
+                          "value": "DATA\\BG\\planets\\people\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_143",
+                          "value": "DATA\\BG\\planets\\people_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_144",
+                          "value": "DATA\\BG\\planets\\people_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_145",
+                          "value": "DATA\\BG\\planets\\people_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_146",
+                          "value": "DATA\\BG\\planets\\people_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_147",
+                          "value": "DATA\\BG\\planets\\people_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_148",
+                          "value": "DATA\\BG\\planets\\people_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_149",
+                          "value": "DATA\\BG\\planets\\people_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_150",
+                          "value": "DATA\\BG\\planets\\people_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_151",
+                          "value": "DATA\\BG\\planets\\people_pirate\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_152",
+                          "value": "DATA\\BG\\planets\\people_pirate\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_153",
+                          "value": "DATA\\BG\\planets\\people_pirate\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_154",
+                          "value": "DATA\\BG\\planets\\people_pirate\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_155",
+                          "value": "DATA\\BG\\planets\\people_pirate\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_156",
+                          "value": "DATA\\BG\\planets\\people_pirate\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_157",
+                          "value": "DATA\\BG\\planets\\people_pirate\\014.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_158",
+                          "value": "DATA\\BG\\planets\\people_pirate\\015.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_159",
+                          "value": "DATA\\BG\\planets\\fei\\015.gi"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG_gov",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_000",
+                          "value": "DATA\\BG\\gov\\fei\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_001",
+                          "value": "DATA\\BG\\gov\\fei\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_002",
+                          "value": "DATA\\BG\\gov\\fei\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_003",
+                          "value": "DATA\\BG\\gov\\fei\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_004",
+                          "value": "DATA\\BG\\gov\\fei\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_005",
+                          "value": "DATA\\BG\\gov\\fei\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_006",
+                          "value": "DATA\\BG\\gov\\fei\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_007",
+                          "value": "DATA\\BG\\gov\\fei\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_008",
+                          "value": "DATA\\BG\\gov\\fei\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_009",
+                          "value": "DATA\\BG\\gov\\fei\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_010",
+                          "value": "DATA\\BG\\gov\\fei\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_011",
+                          "value": "DATA\\BG\\gov\\fei\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_012",
+                          "value": "DATA\\BG\\gov\\fei\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_013",
+                          "value": "DATA\\BG\\gov\\fei\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_014",
+                          "value": "DATA\\BG\\gov\\fei\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_015",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_016",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_017",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_018",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_019",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_020",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_021",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_022",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_023",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_024",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_025",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_026",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_027",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_028",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_029",
+                          "value": "DATA\\BG\\gov\\fei_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_030",
+                          "value": "DATA\\BG\\gov\\gaal\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_031",
+                          "value": "DATA\\BG\\gov\\gaal\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_032",
+                          "value": "DATA\\BG\\gov\\gaal\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_033",
+                          "value": "DATA\\BG\\gov\\gaal\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_034",
+                          "value": "DATA\\BG\\gov\\gaal\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_035",
+                          "value": "DATA\\BG\\gov\\gaal\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_036",
+                          "value": "DATA\\BG\\gov\\gaal\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_037",
+                          "value": "DATA\\BG\\gov\\gaal\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_038",
+                          "value": "DATA\\BG\\gov\\gaal\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_039",
+                          "value": "DATA\\BG\\gov\\gaal\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_040",
+                          "value": "DATA\\BG\\gov\\gaal\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_041",
+                          "value": "DATA\\BG\\gov\\gaal\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_042",
+                          "value": "DATA\\BG\\gov\\gaal\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_043",
+                          "value": "DATA\\BG\\gov\\gaal\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_044",
+                          "value": "DATA\\BG\\gov\\gaal\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_045",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_046",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_047",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_048",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_049",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_050",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_051",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_052",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_053",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_054",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_055",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_056",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_057",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_058",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_059",
+                          "value": "DATA\\BG\\gov\\gaal_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_060",
+                          "value": "DATA\\BG\\gov\\maloc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_061",
+                          "value": "DATA\\BG\\gov\\maloc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_062",
+                          "value": "DATA\\BG\\gov\\maloc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_063",
+                          "value": "DATA\\BG\\gov\\maloc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_064",
+                          "value": "DATA\\BG\\gov\\maloc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_065",
+                          "value": "DATA\\BG\\gov\\maloc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_066",
+                          "value": "DATA\\BG\\gov\\maloc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_067",
+                          "value": "DATA\\BG\\gov\\maloc\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_068",
+                          "value": "DATA\\BG\\gov\\maloc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_069",
+                          "value": "DATA\\BG\\gov\\maloc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_070",
+                          "value": "DATA\\BG\\gov\\maloc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_071",
+                          "value": "DATA\\BG\\gov\\maloc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_072",
+                          "value": "DATA\\BG\\gov\\maloc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_073",
+                          "value": "DATA\\BG\\gov\\maloc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_074",
+                          "value": "DATA\\BG\\gov\\maloc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_075",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_076",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_077",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_078",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_079",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_080",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_081",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_082",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_083",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_084",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_085",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_086",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_087",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_088",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_089",
+                          "value": "DATA\\BG\\gov\\maloc_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_090",
+                          "value": "DATA\\BG\\gov\\peleng\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_091",
+                          "value": "DATA\\BG\\gov\\peleng\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_092",
+                          "value": "DATA\\BG\\gov\\peleng\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_093",
+                          "value": "DATA\\BG\\gov\\peleng\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_094",
+                          "value": "DATA\\BG\\gov\\peleng\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_095",
+                          "value": "DATA\\BG\\gov\\peleng\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_096",
+                          "value": "DATA\\BG\\gov\\peleng\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_097",
+                          "value": "DATA\\BG\\gov\\peleng\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_098",
+                          "value": "DATA\\BG\\gov\\peleng\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_099",
+                          "value": "DATA\\BG\\gov\\peleng\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_100",
+                          "value": "DATA\\BG\\gov\\peleng\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_101",
+                          "value": "DATA\\BG\\gov\\peleng\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_102",
+                          "value": "DATA\\BG\\gov\\peleng\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_103",
+                          "value": "DATA\\BG\\gov\\peleng\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_104",
+                          "value": "DATA\\BG\\gov\\peleng\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_105",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_106",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_107",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_108",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_109",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_110",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_111",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_112",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_113",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_114",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_115",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_116",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_117",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_118",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_119",
+                          "value": "DATA\\BG\\gov\\peleng_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_120",
+                          "value": "DATA\\BG\\gov\\people\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_121",
+                          "value": "DATA\\BG\\gov\\people\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_122",
+                          "value": "DATA\\BG\\gov\\people\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_123",
+                          "value": "DATA\\BG\\gov\\people\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_124",
+                          "value": "DATA\\BG\\gov\\people\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_125",
+                          "value": "DATA\\BG\\gov\\people\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_126",
+                          "value": "DATA\\BG\\gov\\people\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_127",
+                          "value": "DATA\\BG\\gov\\people\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_128",
+                          "value": "DATA\\BG\\gov\\people\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_129",
+                          "value": "DATA\\BG\\gov\\people\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_130",
+                          "value": "DATA\\BG\\gov\\people\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_131",
+                          "value": "DATA\\BG\\gov\\people\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_132",
+                          "value": "DATA\\BG\\gov\\people\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_133",
+                          "value": "DATA\\BG\\gov\\people\\013.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_134",
+                          "value": "DATA\\BG\\gov\\people\\012.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_135",
+                          "value": "DATA\\BG\\gov\\people\\011.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_136",
+                          "value": "DATA\\BG\\gov\\people\\010.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_137",
+                          "value": "DATA\\BG\\gov\\people\\009.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_138",
+                          "value": "DATA\\BG\\gov\\people\\008.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_139",
+                          "value": "DATA\\BG\\gov\\people\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_140",
+                          "value": "DATA\\BG\\gov\\people\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_141",
+                          "value": "DATA\\BG\\gov\\people\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_142",
+                          "value": "DATA\\BG\\gov\\people\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_143",
+                          "value": "DATA\\BG\\gov\\people\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_144",
+                          "value": "DATA\\BG\\gov\\people\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_145",
+                          "value": "DATA\\BG\\gov\\people\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_146",
+                          "value": "DATA\\BG\\gov\\people\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_147",
+                          "value": "DATA\\BG\\gov\\people_pirate\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_148",
+                          "value": "DATA\\BG\\gov\\people_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_149",
+                          "value": "DATA\\BG\\gov\\people_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_150",
+                          "value": "DATA\\BG\\gov\\people_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_151",
+                          "value": "DATA\\BG\\gov\\people_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_152",
+                          "value": "DATA\\BG\\gov\\people_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_153",
+                          "value": "DATA\\BG\\gov\\people_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_154",
+                          "value": "DATA\\BG\\gov\\people_pirate\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_155",
+                          "value": "DATA\\BG\\gov\\people_pirate\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_156",
+                          "value": "DATA\\BG\\gov\\people_pirate\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_157",
+                          "value": "DATA\\BG\\gov\\people_pirate\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_158",
+                          "value": "DATA\\BG\\gov\\people_pirate\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_159",
+                          "value": "DATA\\BG\\gov\\people_pirate\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_160",
+                          "value": "DATA\\BG\\gov\\people_pirate\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_161",
+                          "value": "DATA\\BG\\gov\\people_pirate\\000.gi"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "kind": "block",
+                    "name": "FHDDynamicBG_ruin",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_000",
+                          "value": "DATA\\BG\\stations\\bk\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_001",
+                          "value": "DATA\\BG\\stations\\bk\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_002",
+                          "value": "DATA\\BG\\stations\\bk\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_003",
+                          "value": "DATA\\BG\\stations\\bk\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_004",
+                          "value": "DATA\\BG\\stations\\bk\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_005",
+                          "value": "DATA\\BG\\stations\\bk\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_006",
+                          "value": "DATA\\BG\\stations\\bk\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_007",
+                          "value": "DATA\\BG\\stations\\bk\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_008",
+                          "value": "DATA\\BG\\stations\\cb\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_009",
+                          "value": "DATA\\BG\\stations\\cb\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_010",
+                          "value": "DATA\\BG\\stations\\cb\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_011",
+                          "value": "DATA\\BG\\stations\\cb\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_012",
+                          "value": "DATA\\BG\\stations\\cb\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_013",
+                          "value": "DATA\\BG\\stations\\cb\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_014",
+                          "value": "DATA\\BG\\stations\\cb\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_015",
+                          "value": "DATA\\BG\\stations\\cb\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_016",
+                          "value": "DATA\\BG\\stations\\mc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_017",
+                          "value": "DATA\\BG\\stations\\mc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_018",
+                          "value": "DATA\\BG\\stations\\mc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_019",
+                          "value": "DATA\\BG\\stations\\mc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_020",
+                          "value": "DATA\\BG\\stations\\mc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_021",
+                          "value": "DATA\\BG\\stations\\mc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_022",
+                          "value": "DATA\\BG\\stations\\mc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_023",
+                          "value": "DATA\\BG\\stations\\mc\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_024",
+                          "value": "DATA\\BG\\stations\\pb\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_025",
+                          "value": "DATA\\BG\\stations\\pb\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_026",
+                          "value": "DATA\\BG\\stations\\pb\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_027",
+                          "value": "DATA\\BG\\stations\\pb\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_028",
+                          "value": "DATA\\BG\\stations\\pb\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_029",
+                          "value": "DATA\\BG\\stations\\pb\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_030",
+                          "value": "DATA\\BG\\stations\\pb\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_031",
+                          "value": "DATA\\BG\\stations\\pb\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_032",
+                          "value": "DATA\\BG\\stations\\rc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_033",
+                          "value": "DATA\\BG\\stations\\rc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_034",
+                          "value": "DATA\\BG\\stations\\rc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_035",
+                          "value": "DATA\\BG\\stations\\rc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_036",
+                          "value": "DATA\\BG\\stations\\rc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_037",
+                          "value": "DATA\\BG\\stations\\rc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_038",
+                          "value": "DATA\\BG\\stations\\rc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_039",
+                          "value": "DATA\\BG\\stations\\rc\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_040",
+                          "value": "DATA\\BG\\stations\\sb\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_041",
+                          "value": "DATA\\BG\\stations\\sb\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_042",
+                          "value": "DATA\\BG\\stations\\sb\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_043",
+                          "value": "DATA\\BG\\stations\\sb\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_044",
+                          "value": "DATA\\BG\\stations\\sb\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_045",
+                          "value": "DATA\\BG\\stations\\sb\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_046",
+                          "value": "DATA\\BG\\stations\\sb\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_047",
+                          "value": "DATA\\BG\\stations\\sb\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_048",
+                          "value": "DATA\\BG\\stations\\tc\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_049",
+                          "value": "DATA\\BG\\stations\\tc\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_050",
+                          "value": "DATA\\BG\\stations\\tc\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_051",
+                          "value": "DATA\\BG\\stations\\tc\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_052",
+                          "value": "DATA\\BG\\stations\\tc\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_053",
+                          "value": "DATA\\BG\\stations\\tc\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_054",
+                          "value": "DATA\\BG\\stations\\tc\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_055",
+                          "value": "DATA\\BG\\stations\\tc\\007.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_056",
+                          "value": "DATA\\BG\\stations\\wb\\000.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_057",
+                          "value": "DATA\\BG\\stations\\wb\\001.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_058",
+                          "value": "DATA\\BG\\stations\\wb\\002.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_059",
+                          "value": "DATA\\BG\\stations\\wb\\003.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_060",
+                          "value": "DATA\\BG\\stations\\wb\\004.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_061",
+                          "value": "DATA\\BG\\stations\\wb\\005.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_062",
+                          "value": "DATA\\BG\\stations\\wb\\006.gi"
+                        },
+                        {
+                          "kind": "parameter",
+                          "name": "FHDBG_063",
+                          "value": "DATA\\BG\\stations\\wb\\007.gi"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

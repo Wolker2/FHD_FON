@@ -1,0 +1,849 @@
+{
+  "format": "blockpar",
+  "seed": -1215181314,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "ShipInfo",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "AddInfo",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "block",
+                    "name": "CustomInfos",
+                    "value": {
+                      "entries": [
+                        {
+                          "kind": "block",
+                          "name": "Player_FHDDynamicBG",
+                          "value": {
+                            "entries": [
+                              {
+                                "kind": "parameter",
+                                "name": "Description",
+                                "value": "NoShow"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Icon",
+                                "value": "0"
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "Name",
+                                "value": ""
+                              },
+                              {
+                                "kind": "parameter",
+                                "name": "OnActCodeTypes",
+                                "value": "t_OnEnteringForm"
+                              },
+                              {
+                                "kind": "block",
+                                "name": "OnActCode",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "dword planet = GetShipPlanet(Player());"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "dword ruin = GetShipRuins(Player());"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (!ruin && !planet) exit;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "str curform = CurrentForm();"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (curform != 'Planet' && curform != 'EquipmentShop' && curform != 'Hangar' && curform != 'GoodsShop' && curform != 'Info' && curform != 'Gov' && curform != 'RuinsTalk') exit;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "str type = '';"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (planet)"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (planet == PlanetPirateClan()) exit;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "int owner = PlanetOwner(planet);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "int race = PlanetRace(planet);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "str race_s = '';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (owner == None) exit;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (owner == Kling) exit;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (owner == PirateClan) type = 'planet_pirate';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else type = 'planet';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (race == Maloc) race_s = 'Maloc';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else if (race == Peleng) race_s = 'Peleng';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else if (race == People) race_s = 'People';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else if (race == Fei) race_s = 'Fei';"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else if (race == Gaal) race_s = 'Gaal';"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "else if (ruin)"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (PlayerBridge()) exit;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (ShipTypeN(ruin) < t_RC) exit;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "str ruin_type = ShipType(ruin);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "type = 'ruin';"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "else exit;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "function ModName(mod)"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "result = trim(Format(mod, '/', '', '\\\\', '', ''));"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "function ModEnabled(mod)"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "mod = ModName(mod);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (mod == '')"
+                                          },
+                                          {
+                                            "kind": "block",
+                                            "name": "",
+                                            "value": {
+                                              "entries": [
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "result = 1;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "exit;"
+                                                }
+                                              ],
+                                              "sorted": false
+                                            }
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "for (int i = 0; i < CurrentMods(); i = i + 1)"
+                                          },
+                                          {
+                                            "kind": "block",
+                                            "name": "",
+                                            "value": {
+                                              "entries": [
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (ModName(CurrentMods(i)) == mod)"
+                                                },
+                                                {
+                                                  "kind": "block",
+                                                  "name": "",
+                                                  "value": {
+                                                    "entries": [
+                                                      {
+                                                        "kind": "parameter",
+                                                        "name": "",
+                                                        "value": "result = 1;"
+                                                      },
+                                                      {
+                                                        "kind": "parameter",
+                                                        "name": "",
+                                                        "value": "exit;"
+                                                      }
+                                                    ],
+                                                    "sorted": false
+                                                  }
+                                                }
+                                              ],
+                                              "sorted": false
+                                            }
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "result = 0;"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "str MAIN_PATH = 'FHDDynamicBG';"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "unknown main;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "unknown bgs = newarray(1);"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "GetMainData(MAIN_PATH, main);"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "int i; int j;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "for (i = 0; i < ArrayDim(main); i = i + 1)"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (main[i,'type'] != type) continue;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (!ModEnabled(main[i,'requirement'])) continue;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (type == 'ruin')"
+                                          },
+                                          {
+                                            "kind": "block",
+                                            "name": "",
+                                            "value": {
+                                              "entries": [
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (main[i,'ruin'] != ruin_type) continue;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (!ResourceExist(main[i,'path'])) continue;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "ArrayAdd(bgs, main[i,'path']);"
+                                                }
+                                              ],
+                                              "sorted": false
+                                            }
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "else if (type == 'planet' || type == 'planet_pirate')"
+                                          },
+                                          {
+                                            "kind": "block",
+                                            "name": "",
+                                            "value": {
+                                              "entries": [
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (main[i,'race'] != race_s) continue;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "j = ArrayDim(bgs);"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": ""
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (!ResourceExist(main[i,'paths','city'])) continue;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "if (!ResourceExist(main[i,'paths','gov'])) continue;"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "ArrayAdd(bgs, newarray(2));"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "bgs[j,0] = main[i,'paths','city'];"
+                                                },
+                                                {
+                                                  "kind": "parameter",
+                                                  "name": "",
+                                                  "value": "bgs[j,1] = main[i,'paths','gov'];"
+                                                }
+                                              ],
+                                              "sorted": false
+                                            }
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (ArrayDim(bgs) == 1) exit;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "ArrayDelete(bgs, 0);"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "int n = ArrayDim(bgs);"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "int hash = 0;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (type == 'planet' || type == 'planet_pirate')"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = 1;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + Id(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + Id(PlanetToStar(planet)));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetRace(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetGov(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetEco(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetOrbitRadius(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetOrbitalVelocity(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + PlanetSize(planet));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (hash == 0) throw \"zero\";"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (hash < 0) hash = -hash;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash % 997;"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "else if (type == 'ruin')"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = 1;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + Id(ruin));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + ShipTypeN(ruin));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + GetOwner(ruin));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash * (1 + ShipPilotRace(ruin));"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (hash == 0) throw \"zero\";"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (hash < 0) hash = -hash;"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "hash = hash % 997;"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "i = hash % n;"
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": ""
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "if (type == 'planet' || type == 'planet_pirate')"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "str res_city = bgs[i,0];"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "str res_gov = bgs[i,1];"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Planet')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Planet','BGCity','GI,' + res_city);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'EquipmentShop')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('EquipmentShop','BGCity','GI,' + res_city);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Hangar')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Hangar','BGCity','GI,' + res_city);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'GoodsShop')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('GoodsShop','BGCity','GI,' + res_city);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Info')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Info','BGCity','GI,' + res_city);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Gov')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Gov','Gov' + race_s + ':BG','GI,' + res_gov);"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    },
+                                    {
+                                      "kind": "parameter",
+                                      "name": "",
+                                      "value": "else if (type == 'ruin')"
+                                    },
+                                    {
+                                      "kind": "block",
+                                      "name": "",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "str res_ruin = bgs[i];"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": ""
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'RuinsTalk')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('RuinsTalk','ImageBG','GI,'+res_ruin);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'EquipmentShop')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('EquipmentShop','BGCity','GI,' + res_ruin);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Hangar')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Hangar','BGCity','GI,' + res_ruin);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'GoodsShop')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('GoodsShop','BGCity','GI,' + res_ruin);"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "if (curform == 'Info')"
+                                          },
+                                          {
+                                            "kind": "parameter",
+                                            "name": "",
+                                            "value": "    InterfaceImage('Info','BGCity','GI,' + res_ruin);"
+                                          }
+                                        ],
+                                        "sorted": false
+                                      }
+                                    }
+                                  ],
+                                  "sorted": false
+                                }
+                              }
+                            ],
+                            "sorted": false
+                          }
+                        }
+                      ],
+                      "sorted": false
+                    }
+                  }
+                ],
+                "sorted": false
+              }
+            }
+          ],
+          "sorted": false
+        },
+        "sort_meta": [
+          0,
+          1
+        ]
+      }
+    ],
+    "sorted": true
+  }
+}

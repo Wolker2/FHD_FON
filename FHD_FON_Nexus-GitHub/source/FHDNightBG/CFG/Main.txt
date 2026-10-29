@@ -1,0 +1,92 @@
+FHDDynamicBG ^{
+    FHDNightBG_planet_fei_0 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet_pirate
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_fei_0
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_0
+        }
+    }
+    FHDNightBG_planet_fei_1 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet
+        race=Fei
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_fei_1
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.fei_1
+        }
+    }
+    FHDNightBG_planet_gaal_0 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet_pirate
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_gaal_0
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_0
+        }
+    }
+    FHDNightBG_planet_gaal_1 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet
+        race=Gaal
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_gaal_1
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG_gaal_1
+        }
+    }
+    FHDNightBG_planet_maloc_0 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_maloc_0
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_0
+        }
+    }
+    FHDNightBG_planet_maloc_1 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet
+        race=Maloc
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_maloc_1
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.Maloc_1
+        }
+    }
+    FHDNightBG_planet_peleng_0 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_peleng_0
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_0
+        }
+    }
+    FHDNightBG_planet_peleng_1 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet_pirate
+        race=Peleng
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_peleng_1
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.Peleng_1
+        }
+    }
+    FHDNightBG_planet_people_0 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_people_0
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.People_0
+        }
+    }
+    FHDNightBG_planet_people_1 ^{
+        requirement=FHD_MODSFHD_FONFHDNightBG
+        type=planet_pirate
+        race=People
+        paths ^{
+            city=Bm.City.FHDDynamicBG.FHDNightBG_people_1
+            gov=Bm.City.FHDDynamicBG_gov.FHDNightBG.People_1
+        }
+    }
+}
